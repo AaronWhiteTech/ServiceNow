@@ -21,6 +21,11 @@ Service now configuration + Ticket lifecylce walk through
 ![servicenow ticket configuration](https://github.com/AaronWhiteTech/ServiceNow/assets/155200818/233a25fd-1cff-46ca-9735-cf4fd5472b37)
 
 
-- Got to incident create new to create ticket 
+- Got to incident create new to create ticket
+  The following ticket is an account lockout/password rest.
+  sent via email.
+  urgency is low.
+  bussiness impact is low.
+  This ticket is assigned to the incident manager
 
 ![Resloved Ticket](https://github.com/AaronWhiteTech/ServiceNow/assets/155200818/8ab3a271-10ac-420a-ad92-75800cd96b48)
